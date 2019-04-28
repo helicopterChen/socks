@@ -22,7 +22,7 @@
   "_resolved": "https://registry.npm.taobao.org/shadowsocks/download/shadowsocks-1.5.3.tgz",
   "_shasum": "9a45614ad4395486c1d4a31443c5c65ad379a1ef",
   "_spec": "shadowsocks",
-  "_where": "I:\\workdir\\sock",
+  "_where": "D:\\sock",
   "author": {
     "name": "clowwindy"
   },
@@ -64,7 +64,7 @@
     "url": "git+https://github.com/clowwindy/shadowsocks-nodejs.git"
   },
   "scripts": {
-    "start": "node .\lib\shadowsocks\server.js"
+    "start": "node index"
   },
   "version": "1.5.3"
 }
